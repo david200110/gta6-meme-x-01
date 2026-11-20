@@ -1,2 +1,3 @@
 media-generation-*.json
 .DS_Store
+out/
